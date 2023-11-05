@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi! I'm despair.
 
-<!--
-**imdespair/imdespair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I'm a 17-year-old developer from the UK 🇬🇧 with a passion for gaming, coding, shitposting and all things tech.
 
-Here are some ideas to get you started:
+🎮 You can often find me on Discord, Genshin Impact or Twitter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 😃 Pronouns: He/Him
+- 💻 I'm an enthusiastic coder who enjoys working on various projects.
+- 🌱 I'm constantly learning and growing as a developer.
+- 🔭 I'm currently working on my [wesbite](https://schizophrenic.lol)
+
+## Languages and Tools
+I have (some) experience with a variety of programming languages and tools, including:
+- 🐍 Python
+- 🌐 HTML, CSS, JavaScript
+- 🚁 Git/GitHub
+- And some others!
+
+## Contact Me
+Feel free to reach out to me on Discord at `imdespair` if you'd like to chat, collaborate on a project, or just play Genshin Impact together! 🎮
+
+## Let's Connect!
+- 📝 Check out my [website](https://schizophrenic.lol) for more about my projects and interests.
+
+Thanks for stopping by! I'm excited to connect with you all. Let's build and explore the digital world together! 🚀
