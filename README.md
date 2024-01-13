@@ -1,9 +1,5 @@
 # Hi! I'm despair.
 
-🌍 I'm a 17-year-old developer from the UK 🇬🇧 with a passion for gaming, coding, shitposting and all things tech.
-
-🎮 You can often find me on Discord, Genshin Impact or Twitter.
-
 ## About Me
 - 😃 Pronouns: He/Him
 - 💻 I'm an enthusiastic coder who enjoys working on various projects.
@@ -23,4 +19,3 @@ Feel free to reach out to me on Discord at `imdespair` if you'd like to chat, co
 ## Let's Connect!
 - 📝 Check out my [website](https://schizophrenic.lol) for more about my projects and interests.
 
-Thanks for stopping by! I'm excited to connect with you all. Let's build and explore the digital world together! 🚀
